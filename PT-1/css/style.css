@@ -1,0 +1,12 @@
+.external {
+    color: brown;
+}
+
+p {
+    border: 2px solid brown;
+    padding: 10px;
+}
+
+.first, h2 {
+    counter-reset: red;
+}

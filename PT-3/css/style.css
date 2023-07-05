@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#muri {
+    color: red;
+    margin: 10px;
+    padding: 10px;
+}
+
+.paragraph, p {
+    color: blue;
+    font-size: 20px;
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid;
+}

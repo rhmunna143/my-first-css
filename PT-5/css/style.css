@@ -1,0 +1,22 @@
+.paragraph {
+    color: red;
+    font-size: 20px;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 10px;
+}
+
+.images {
+    /* display: inline; */
+    
+}
+
+img {
+    border: 5px solid yellow;
+    margin: 10px;
+    border-radius: 20px;
+    box-shadow: 20px 20px 20px blue;
+    display: inline;
+    height: 300px;
+    width: 250px;
+}
